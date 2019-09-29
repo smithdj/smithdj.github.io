@@ -1,17 +1,17 @@
 Quantitative Researcher
----
+===
 
 Email: smithdanieljo@gmail.com
 
 ---
 
-# Publications
+## Publications
 ---
 
 
-# Presentations
+## Presentations
 ----
 
 
-# Ongoing Research
+## Ongoing Research
 ----
