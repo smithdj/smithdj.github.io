@@ -1,4 +1,4 @@
-front matter
+Here is front matter
 ===
 
 Quantitative Researcher
