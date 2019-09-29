@@ -1,5 +1,6 @@
+---
 title: i hate github
-===
+---
 
 Quantitative Researcher
 ---
