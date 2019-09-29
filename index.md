@@ -1,3 +1,7 @@
+title: some title
+tag: some tag
+===
+
 Quantitative Researcher
 ---
 
