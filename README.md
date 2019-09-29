@@ -1,6 +1,3 @@
-About me
-===
-
 Quantitative Researcher
 ---
 
