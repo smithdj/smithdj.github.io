@@ -1,5 +1,4 @@
-Quantitative Researcher
-===
+## Quantitative Researcher
 
 Email: smithdanieljo@gmail.com
 
