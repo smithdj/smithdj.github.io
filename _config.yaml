@@ -1,4 +1,3 @@
 name: Name
-site.title: Site_title
-page.title: Page_title
+title: title
 description: descript
