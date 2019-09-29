@@ -1,4 +1,4 @@
-Here is front matter
+Title: Here is front matter
 ===
 
 Quantitative Researcher
