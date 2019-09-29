@@ -1,5 +1,4 @@
-title: some title
-tag: some tag
+title: i hate github
 ===
 
 Quantitative Researcher
