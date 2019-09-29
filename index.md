@@ -1,5 +1,5 @@
 ---
-title: i hate github
+title: null
 ---
 
 Quantitative Researcher
