@@ -1,4 +1,4 @@
-Daniel J. Smith
+front matter
 ===
 
 Quantitative Researcher
