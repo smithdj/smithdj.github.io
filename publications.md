@@ -3,10 +3,12 @@
 
 ### *Articles*  
 
-17. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, forthcoming.  
-<br/ >  
-16. Barbara Delmore, Elizabeth A. Ayello, Andy Chu, Linda Rolnitzky, and **Daniel J. Smith**. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.  
-<br />  
+\*17.*\ Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, forthcoming.    
+
+
+16. Barbara Delmore, Elizabeth A. Ayello, Andy Chu, Linda Rolnitzky, and **Daniel J. Smith**. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.    
+    
+    
 15. Barbara Delmore, Jill Cox, Andy Chu, Linda Rolnitzky, and **Daniel J. Smith**. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*.  
 <br />  
 14. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and Evaluating the Impact of a Nurse-led Oral Care Initiative.” *Journal of Nursing Care Quality*.
@@ -33,6 +35,7 @@
 8.  “Prevalence of hepatitis C virus infection among HIV+ men who have sex with men: A systematic review and meta-analysis.” With Ashly E. Jordan, David C. Perlman, Josh Neurer, Don C. Des Jarlais, and Holly Hagan. 2017. International Journal of STD & AIDS 28(2): 145-59.
    * doi
    * sample
+	
 	
 7.	Mayu O. Frank, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2016. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” *BMC Infectious Diseases*, 16: 471-83.
    * doi
