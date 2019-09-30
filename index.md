@@ -4,13 +4,13 @@ Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
 
 ---
 
-## [Publications](https://smithdj.github.io/publications)
+### [Publications](https://smithdj.github.io/publications)
 ---
 
 
-## Presentations
+### Presentations
 ----
 
 
-## Ongoing Research
+### Ongoing Research
 ----
