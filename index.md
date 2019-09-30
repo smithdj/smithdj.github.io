@@ -1,6 +1,6 @@
-## Quantitative Researcher
+>### Quantitative Researcher  
 
-Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
+>Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
 
 ---
 
