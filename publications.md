@@ -1,6 +1,3 @@
-Daniel J. Smith
-===  
-
 ## Publications
 
 ### *Articles*  
