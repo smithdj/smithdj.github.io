@@ -1,10 +1,10 @@
 ## Quantitative Researcher
 
-Email: smithdanieljo@gmail.com
+Email: [smithdanieljo@gmail.com]((mailto:smithdanieljo@gmail.com)
 
 ---
 
-## Publications
+## [Publications](/publications.md)
 ---
 
 
