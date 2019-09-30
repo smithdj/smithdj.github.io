@@ -6,13 +6,17 @@
 
 
 16\. Barbara Delmore, Elizabeth A. Ayello, Andy Chu, Linda Rolnitzky, and **Daniel J. Smith**. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.    
-<br />
+
+
 15\. Barbara Delmore, Jill Cox, Andy Chu, Linda Rolnitzky, and **Daniel J. Smith**. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*.  
-<br />
+
+
 14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and Evaluating the Impact of a Nurse-led Oral Care Initiative.” *Journal of Nursing Care Quality*.  
    * [https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx]  
    * sample
    
+
+
 
 13\. Bilal Khan, Ian Duncan, Mohamad Saad, Daniel Schaefer, Ashly Jordan, **Daniel Smith**, Alan Neaigus, Don Des Jarlais, Holly Hagan, and Kirk Dombrowski. 2018. "Combination interventions for Hepatitis C and Cirrhosis reduction among people who inject drugs: An agent-based, networked population simulation experiment." *PLOS ONE*, 13(11): e0206356.  
     * [https://doi.org/10.1371/journal.pone.0206356]()
