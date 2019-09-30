@@ -4,7 +4,7 @@ Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
 
 ---
 
-## [Publications](/publications.md)
+## [Publications](publications.html)
 ---
 
 
