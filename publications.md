@@ -81,8 +81,8 @@
 ### *Study Registrations*
 
 
-2\. With Ashly E. Jordan. 2016. “The epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): A systematic review and meta-analysis.” PROSPERO: CRD42016035687.
+2\. Ashly Jordan and **Daniel Smith**. 2016. “The epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): A systematic review and meta-analysis.” *PROSPERO*: CRD42016035687.
 
 
-1\. With Joan Combellick, Ashly E. Jordan, and Holly Hagan. 2014. “Systematic review and meta-analysis of the natural history of hepatitis C (HCV) among people who inject drugs (PWID).” PROSPERO: CRD42014008805. 
+1\. Joan Combellick, **Daniel Smith**, Ashly Jordan, and Holly Hagan. 2014. “Systematic review and meta-analysis of the natural history of hepatitis C (HCV) among people who inject drugs (PWID).” *PROSPERO*: CRD42014008805. 
 
