@@ -3,7 +3,7 @@
 ### *Articles*
 
 
-17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, forthcoming.
+17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
 
 
 16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*. 
@@ -19,20 +19,21 @@
    
 
 13\. Bilal Khan, Ian Duncan, Mohamad Saad, Daniel Schaefer, Ashly Jordan, **Daniel Smith**, Alan Neaigus, Don Des Jarlais, Holly Hagan, and Kirk Dombrowski. 2018. "Combination interventions for Hepatitis C and Cirrhosis reduction among people who inject drugs: An agent-based, networked population simulation experiment." *PLOS ONE*, 13(11): e0206356.  
-  * [doi: https://doi.org/10.1371/journal.pone.0206356](https://doi.org/10.1371/journal.pone.0206356 "Link to publication")
+  * [doi: 10.1371/journal.pone.0206356](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206356 "Link to publication")
     
 
 12\. With Ashly E. Jordan, David C. Perlman, **Daniel J. Smith**, and Holly Hagan. 2018. “Application of an adapted PRECIS-II instrument to assess efficacy and effectiveness study designs in a systematic review of intervention studies of the HCV care continuum among people who use drugs.” *Comparative Effectiveness Research*, 8: 3-17.  
-  * [doi]("Link to publication")
+  * [doi: 10.2147/CER.S145672](https://www.dovepress.com/application-of-an-adapted-precis-2-instrument-to-assess-efficacy--and--peer-reviewed-fulltext-article-CER "Link to publication")
    
 
 11\.  Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2018. “Use of the PRECIS-II instrument to categorize reports along the efficacy-effectiveness spectrum in an hepatitis C virus care continuum systematic review and meta-analysis.” *Journal of Clinical Epidemiology* 93: 66-75.  
-  * [doi]("Link to publication")
+  * [doi: 10.1016/j.jclinepi.2017.10.015](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")
   * sample  
 
 
-10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.   * [doi]("Link to publication")
-   
+10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.   * [doi: 10.3389/fpubh.2017.00348](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
+
+
 9\.  **Daniel J. Smith**, Ashly E. Jordan, Josh Neurer, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	
   * [doi: 10.2196/resprot.7936](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
   * sample  
@@ -52,7 +53,7 @@
   * [doi: 10.1186/s13643-016-0293-6](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0293-6 "Link to publication")
 
 
-5\. 	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” With Joan Combellick, Ashly E. Jordan, and Holly Hagan. *International Journal of Drug Policy*, 26: 911-21.
+5\. 	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” *International Journal of Drug Policy*, 26: 911-21.
   * [doi]("Link to publication")
   * sample
 
@@ -63,7 +64,7 @@
    
 
 3\. 	**Daniel J. Smith**. 2014. “Public diplomacy and the ‘self’ in regional organization: A network approach to identity formation, image formation, and ASEAN Community Building.” *Exchange Diplomacy*: 122-49.
-  * [Full-text version]
+  * [Full-text]
   * [sample] 
 
 
