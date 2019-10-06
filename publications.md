@@ -52,12 +52,12 @@
 
 
 5\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” *International Journal of Drug Policy*, 26: 911-21.
-  * [doi]("Link to publication")
+  * [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26298331 "Link to publication")
   * [Sample]()
 
 
 4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015.“Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2): e68. 
-  * [Full text]("Link to publication")
+  * [Full text](https://www.researchprotocols.org/2015/2/e68/ "Link to publication")
    
 
 3\.	**Daniel J. Smith**. 2014. “Public diplomacy and the ‘self’ in regional organization: A network approach to identity formation, image formation, and ASEAN Community Building.” *Exchange Diplomacy*: 122-49.
