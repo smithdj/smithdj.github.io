@@ -3,7 +3,7 @@
 ### *Articles*
 
 
-17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
+17\.   Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
 
 
 16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*. 
