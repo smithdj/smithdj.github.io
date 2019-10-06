@@ -34,7 +34,7 @@
   * [Full text](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
   
   
-9\. **Daniel J. Smith**, Ashly E. Jordan, Josh Neurer, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	
+9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	
   * [Full text](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
 
 
