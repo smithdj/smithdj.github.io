@@ -15,7 +15,7 @@
 
 14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and Evaluating the Impact of a Nurse-led Oral Care Initiative.” *Journal of Nursing Care Quality*.  
   * [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
-  * sample
+  * [Sample]()
    
 
 13\. Bilal Khan, Ian Duncan, Mohamad Saad, Daniel Schaefer, Ashly Jordan, **Daniel Smith**, Alan Neaigus, Don Des Jarlais, Holly Hagan, and Kirk Dombrowski. 2018. "Combination interventions for Hepatitis C and Cirrhosis reduction among people who inject drugs: An agent-based, networked population simulation experiment." *PLOS ONE*, 13(11): e0206356.  
@@ -27,8 +27,7 @@
    
 
 11\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2018. “Use of the PRECIS-II instrument to categorize reports along the efficacy-effectiveness spectrum in an hepatitis C virus care continuum systematic review and meta-analysis.” *Journal of Clinical Epidemiology* 93: 66-75.  
-  * [Full text](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")
-  * sample  
+  * [Full text](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")  
 
 
 10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.
@@ -37,17 +36,15 @@
   
 9\. **Daniel J. Smith**, Ashly E. Jordan, Josh Neurer, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	
   * [Full text](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
-  * sample  
 
 
 8\. Ashly E. Jordan, David C. Perlman, Josh Neurer, **Daniel J. Smith**, Don C. Des Jarlais, and Holly Hagan. 2017. “Prevalence of hepatitis C virus infection among HIV+ men who have sex with men: A systematic review and meta-analysis.” *International Journal of STD & AIDS*, 28(2): 145-59.
   * [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26826159 "Link to publication")
-  * sample
 
 
 7\.	Mayu O. Frank, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2016. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” *BMC Infectious Diseases*, 16: 471-83.  
   * [Full text](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-016-1807-5 "Link to publication")  
-  * sample  
+  * [Sample]()  
 
 
 6\. Jennifer R. Reed, Ashly E. Jordan, David C. Perlman, **Daniel J. Smith**, and Holly Hagan. 2016. “The HCV care continuum among people who use drugs: Protocol for a systematic review and meta-analysis.” *Systematic Reviews*, 5: 110-5.
@@ -56,27 +53,25 @@
 
 5\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” *International Journal of Drug Policy*, 26: 911-21.
   * [doi]("Link to publication")
-  * sample
+  * [Sample]()
 
 
 4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015.“Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2): e68. 
   * [Full text]("Link to publication")
-  * sample
    
 
 3\.	**Daniel J. Smith**. 2014. “Public diplomacy and the ‘self’ in regional organization: A network approach to identity formation, image formation, and ASEAN Community Building.” *Exchange Diplomacy*: 122-49.
   * [Full-text]
-  * [sample] 
+  * [Sample]()
 
 
 2\. **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” 2014. *Journal of Political Inquiry*, (Spring): 121-45. 
   * [Full text]
-  * [sample]            
+  * [Sample]()          
 
 
 1\. **Daniel J. Smith** and Patrick James. 2010. “Forecasting California-Canada relations.” With Patrick James. *FOCALPoint*, 9(9): 5-6.
   * [Full text](https://www.researchgate.net/publication/282354143_Forecasting_California-Canada_Relations)
-  * [sample]
 
 
 <br />  
