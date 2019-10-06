@@ -61,12 +61,12 @@
    
 
 3\.	**Daniel J. Smith**. 2014. “Public diplomacy and the ‘self’ in regional organization: A network approach to identity formation, image formation, and ASEAN Community Building.” *Exchange Diplomacy*: 122-49.
-  * [Full-text]
+  * [Full-text](https://surface.syr.edu/exchange/vol5/iss1/8/ "Link to publication")
   * [Sample]()
 
 
 2\. **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” 2014. *Journal of Political Inquiry*, (Spring): 121-45. 
-  * [Full text](9http://www.jpinyu.com/wp-content/uploads/2015/01/9._daniel_final.pdf "Link to publication")
+  * [Full text](http://www.jpinyu.com/wp-content/uploads/2015/01/9._daniel_final.pdf "Link to publication")
   * [Sample]()          
 
 
