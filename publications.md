@@ -34,22 +34,22 @@
 10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.   * [doi]("Link to publication")
    
 9\.  **Daniel J. Smith**, Ashly E. Jordan, Josh Neurer, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	
-  * [doi]("Link to publication")
+  * [doi: 10.2196/resprot.7936](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
   * sample  
 
 
-8\.  “Prevalence of hepatitis C virus infection among HIV+ men who have sex with men: A systematic review and meta-analysis.” With Ashly E. Jordan, David C. Perlman, Josh Neurer, Don C. Des Jarlais, and Holly Hagan. 2017. International Journal of STD & AIDS 28(2): 145-59.
-  * [doi]("Link to publication")
-  * sample  
+8\.  Ashly E. Jordan, David C. Perlman, Josh Neurer, **Daniel J. Smith**, Don C. Des Jarlais, and Holly Hagan. 2017. “Prevalence of hepatitis C virus infection among HIV+ men who have sex with men: A systematic review and meta-analysis.” *International Journal of STD & AIDS*, 28(2): 145-59.
+  * [doi: 10.1177/0956462416630910](https://www.ncbi.nlm.nih.gov/pubmed/26826159 "Link to publication")
+  * sample
 
 
 7\.	Mayu O. Frank, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2016. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” *BMC Infectious Diseases*, 16: 471-83.  
-  * [doi]("Link to publication")  
+  * [doi: 10.1186/s12879-016-1807-5](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-016-1807-5 "Link to publication")  
   * sample  
 
 
 6\.  Jennifer R. Reed, Ashly E. Jordan, David C. Perlman, **Daniel J. Smith**, and Holly Hagan. 2016. “The HCV care continuum among people who use drugs: Protocol for a systematic review and meta-analysis.” *Systematic Reviews*, 5: 110-5.
-  * [doi]("Link to publication")
+  * [doi: 10.1186/s13643-016-0293-6](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0293-6 "Link to publication")
 
 
 5\. 	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” With Joan Combellick, Ashly E. Jordan, and Holly Hagan. *International Journal of Drug Policy*, 26: 911-21.
@@ -68,12 +68,12 @@
 
 
 2\.  **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” 2014. *Journal of Political Inquiry*, (Spring): 121-45. 
-  * [Full-text version]
+  * [Full text]
   * [sample]            
 
 
 1\.  **Daniel J. Smith** and Patrick James. 2010. “Forecasting California-Canada relations.” With Patrick James. *FOCALPoint*, 9(9): 5-6.
-  * [Full-text version]
+  * [Full text](https://www.researchgate.net/publication/282354143_Forecasting_California-Canada_Relations)
   * [sample]
 
 
@@ -83,8 +83,8 @@
 
 
 2\. Ashly Jordan and **Daniel Smith**. 2016. “The epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): A systematic review and meta-analysis.” *PROSPERO*: CRD42016035687.
-  * [Full-text version](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=35687 "Link to publication")
+  * [Full text](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=35687 "Link to publication")
 
 1\. Joan Combellick, **Daniel Smith**, Ashly Jordan, and Holly Hagan. 2014. “Systematic review and meta-analysis of the natural history of hepatitis C (HCV) among people who inject drugs (PWID).” *PROSPERO*: CRD42014008805. 
-  * [Full-text version](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42014008805 "Link to publication")
+  * [Full text](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42014008805 "Link to publication")
 
