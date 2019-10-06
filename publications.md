@@ -66,7 +66,7 @@
 
 
 2\. **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” 2014. *Journal of Political Inquiry*, (Spring): 121-45. 
-  * [Full text]
+  * [Full text](9http://www.jpinyu.com/wp-content/uploads/2015/01/9._daniel_final.pdf "Link to publication")
   * [Sample]()          
 
 
