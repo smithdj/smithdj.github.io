@@ -41,7 +41,7 @@
   * [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26826159 "Link to publication")
 
 
-7\.	Mayu O. Frank, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2016. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” *BMC Infectious Diseases*, 16: 471-83.  
+7\.	**Daniel J. Smith**, Ashly E. Jordan, Mayu O. Frank, and Holly Hagan. 2016. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” *BMC Infectious Diseases*, 16: 471-83.  
   * [Full text](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-016-1807-5 "Link to publication")  
 
 
