@@ -5,7 +5,6 @@
 3\.	**Daniel J. Smith**. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” Presented at the Annual Conference of the British Columbia Political Studies Association, Vancouver, BC, May 2-3, 2013.
   * [Full text](http://www.bcpsa.ca/wp-content/uploads/2013/04/DSmith1.pdf "Link to presentation")
 
-<br />
 
 2\. **Daniel J. Smith**. “The win-to-select procedure: An alternative for the fair allocation of sovereignty of the Spratly Islands.” Presented at the 21st Annual Illinois State University Conference for Students of Political Science, Normal, IL, April 4, 2013.
   * [Full text](https://pdfs.semanticscholar.org/17be/02508ebb7e23bfae4d5f5eb5487b1674550b.pdf "Link to presentation")
