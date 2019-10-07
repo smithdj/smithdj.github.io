@@ -3,16 +3,16 @@
 ### *Articles*
 
 
-17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the Impact of an Innovative Educational Program for Skin Care Champions Using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
+17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
 
 
-16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*. 
+16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute skin failure in the critical care patient.” *Advances in Skin and Wound Care*. 
 
 
-15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. [“Refining Heel Pressure Injury Risk Factors in the Hospitalized Patient."](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication") *Advances in Skin and Wound Care*.  
+15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. [“Refining heel pressure injury risk factors in the hospitalized patient."](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication") *Advances in Skin and Wound Care*.  
     
 
-14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and Evaluating the Impact of a Nurse-led Oral Care Initiative.” *Journal of Nursing Care Quality*.  
+14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and evaluating the impact of a nurse-led oral care initiative.” *Journal of Nursing Care Quality*.  
   * [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
    
 
