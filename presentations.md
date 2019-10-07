@@ -3,12 +3,12 @@
 ### *Conference Podium Presentations*
 
 
-3\.	**Daniel J. Smith**. 2013. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” Presented at the Annual Conference of the British Columbia Political Studies Association, Vancouver, BC, May 2-3.
-  * [Full text](http://www.bcpsa.ca/wp-content/uploads/2013/04/DSmith1.pdf "Link to presentation")
+3\.	**Daniel J. Smith**. 2013. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” Presented at the Annual Conference of the British Columbia Political Studies Association, Vancouver, BC, May 2-3.  
+  [Full text](http://www.bcpsa.ca/wp-content/uploads/2013/04/DSmith1.pdf "Link to presentation")
 
 
 2\. **Daniel J. Smith**. 2013. “The win-to-select procedure: An alternative for the fair allocation of sovereignty of the Spratly Islands.” Presented at the 21st Annual Illinois State University Conference for Students of Political Science, Normal, IL, April 4.
-  * [Full text](https://pdfs.semanticscholar.org/17be/02508ebb7e23bfae4d5f5eb5487b1674550b.pdf "Link to presentation")
+  [Full text](https://pdfs.semanticscholar.org/17be/02508ebb7e23bfae4d5f5eb5487b1674550b.pdf "Link to presentation")
 
 
 1\. **Daniel J. Smith**. 2012. “Public diplomacy and the ‘self’ in regional organization: Network models of identity formation, image formation, and ASEAN community building.” Presented at The Whitehead Colloquium, Seton Hall University, April 12.
