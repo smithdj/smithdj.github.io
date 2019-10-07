@@ -1,5 +1,7 @@
 ### Ongoing and Unpublished Research
 
+<br />
+
 4\. **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. In preparation. “Correcting the count: A potential bias in estimating hepatitis C virus infection using data on people who inject drugs.”
 
 <br />
