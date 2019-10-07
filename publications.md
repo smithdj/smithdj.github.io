@@ -67,6 +67,8 @@
 1\. **Daniel J. Smith** and Patrick James. 2010. “Forecasting California-Canada relations.” *FOCALPoint*, 9(9): 5-6.  
   [Full text](https://www.researchgate.net/publication/282354143_Forecasting_California-Canada_Relations) 
 
+<br />
+
 ### *Study Registrations*
 
 2\. Ashly Jordan and **Daniel Smith**. 2016. “The epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): A systematic review and meta-analysis.” *PROSPERO*: CRD42016035687.  
