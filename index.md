@@ -12,13 +12,13 @@ Research links:
  
 ---
 
-### [Publications](https://smithdj.github.io/publications "Link to publications")
+### [Publications](https://smithdj.github.io/publications.md "Link to publications")
     
 ---
 
-### [Presentations](https://smithdj.github.io/presentations "Link to presentations")
+### [Presentations](https://smithdj.github.io/presentations.md "Link to presentations")
 
 ---
 
-### [Ongoing Research](https://smithdj.github.io/ongoinganunpub "Link to ongoing research")
+### [Ongoing Research](https://smithdj.github.io/ongoingandunpub.md "Link to ongoing research")
 ---
