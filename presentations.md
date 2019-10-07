@@ -2,6 +2,8 @@
 
 ### *Conference Podium Presentations*
 
+<br />
+
 3\.	**Daniel J. Smith**. 2013. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” Presented at the Annual Conference of the British Columbia Political Studies Association, Vancouver, BC, May 2-3.
   * [Full text](http://www.bcpsa.ca/wp-content/uploads/2013/04/DSmith1.pdf "Link to presentation")
 
@@ -17,6 +19,8 @@
 <br />
 
 ### *Conference Poster Presentations*
+
+<br />
 
 8\. Kathleen McBride, David Evans, Dina Rosenberg, Norman Jabaut, Carmen Misenas Rivera, **Daniel J. Smith**. 2019. "The Culture of Urine: Evaluation of current practices for collecting and ordering urine specimens in the Perelman Emergency Department." Presented at the 23rd Annual Nursing Research Conference, New York, NY, June 19.
 
