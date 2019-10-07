@@ -16,13 +16,13 @@
 
 ### *Conference Poster Presentations*
 
-8\. Kathy Mcbride, 2019.
+8\. Kathleen McBride, David Evans, Dina Rosenberg, Norman Jabaut, Carmen Misenas Rivera, **Daniel J. Smith**. 2019. "The Culture of Urine: Evaluation of current practices for collecting and ordering urine specimens in the Perelman Emergency Department." 23rd Annual Nursing Research Conference, New York, NY, June 19.
 
 <br />
 
-7\. Dora Castillo, 2019.
+7\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. "Evaluating the impact of an oral care initiative in an academic medical center." 23rd Annual Nursing Research Conference, New York, NY, June 19.
 
-<br />
+<br /> 
 
 6\. Tessa Turton-Thompson, Susan Vegessi-Faley, Jeanna Blitz, Patricia Sheehy-McCann, and **Daniel Smith**. 2018. "The impact of educational sessions a year later on preoperative cognitive assessment and use of Mini-Cog tool in preadmission testing: Pre-test and post-test evaluations. 22nd Annual Nursing Research Conference, New York, NY, June 19. 
 
