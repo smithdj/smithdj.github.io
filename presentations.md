@@ -7,7 +7,7 @@
   [Full text](http://www.bcpsa.ca/wp-content/uploads/2013/04/DSmith1.pdf "Link to presentation")
 
 
-2\. **Daniel J. Smith**. 2013. “The win-to-select procedure: An alternative for the fair allocation of sovereignty of the Spratly Islands.” Presented at the 21st Annual Illinois State University Conference for Students of Political Science, Normal, IL, April 4.
+2\. **Daniel J. Smith**. 2013. “The win-to-select procedure: An alternative for the fair allocation of sovereignty of the Spratly Islands.” Presented at the 21st Annual Illinois State University Conference for Students of Political Science, Normal, IL, April 4.  
   [Full text](https://pdfs.semanticscholar.org/17be/02508ebb7e23bfae4d5f5eb5487b1674550b.pdf "Link to presentation")
 
 
