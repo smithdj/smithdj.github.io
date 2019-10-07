@@ -9,8 +9,7 @@
 16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute Skin Failure in the Critical Care Patient.” *Advances in Skin and Wound Care*. 
 
 
-15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining Heel Pressure Injury Risk Factors in the Hospitalized Patient." *Advances in Skin and Wound Care*.  
-  * [Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
+15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. [“Refining Heel Pressure Injury Risk Factors in the Hospitalized Patient."](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication") *Advances in Skin and Wound Care*.  
     
 
 14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and Evaluating the Impact of a Nurse-led Oral Care Initiative.” *Journal of Nursing Care Quality*.  
