@@ -8,7 +8,8 @@
 16\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. Forthcoming. “Acute skin failure in the critical care patient.” *Advances in Skin and Wound Care*. 
 
 
-15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*. [Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
+15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.
+[Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
 
 
 14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and evaluating the impact of a nurse-led oral care initiative.” *Journal of Nursing Care Quality*. [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
@@ -23,7 +24,7 @@
 11\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2018. “Use of the PRECIS-II instrument to categorize reports along the efficacy-effectiveness spectrum in an hepatitis C virus care continuum systematic review and meta-analysis.” *Journal of Clinical Epidemiology* 93: 66-75. [Full text](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")
   
 
-10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.[Full text](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
+10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348. [Full text](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
 
 
 9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.	[Full text](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
