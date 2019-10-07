@@ -1,6 +1,6 @@
 ### Quantitative Researcher
 
-#### [About](smithdj.github.io/about.md)
+#### [About](smithdj.github.io/about)
 
 Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
 
