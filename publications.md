@@ -2,6 +2,7 @@
 
 ### *Articles*
 
+<br />
 
 17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*.
 
@@ -88,6 +89,7 @@
 
 ### *Study Registrations*
 
+<br />
 
 2\. Ashly Jordan and **Daniel Smith**. 2016. “The epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): A systematic review and meta-analysis.” *PROSPERO*: CRD42016035687.
   * [Full text](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=35687 "Link to publication")
