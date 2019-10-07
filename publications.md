@@ -9,7 +9,8 @@
 
 
 15\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.
-[Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
+  
+  [Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
 
 
 14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and evaluating the impact of a nurse-led oral care initiative.” *Journal of Nursing Care Quality*. [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
