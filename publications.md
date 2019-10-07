@@ -12,10 +12,12 @@
   > [Full text](https://pdfs.journals.lww.com/aswcjournal/9000/00000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.99940.pdf "Link to publication")
 
 
-14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and evaluating the impact of a nurse-led oral care initiative.” *Journal of Nursing Care Quality*. [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
+14\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. “Implementing and evaluating the impact of a nurse-led oral care initiative.” *Journal of Nursing Care Quality*.  
+  * [Full text](https://journals.lww.com/jncqjournal/Abstract/publishahead/Implementing_and_Evaluating_the_Impact_of_a.99432.aspx "Link to publication")
 
 
-13\. Bilal Khan, Ian Duncan, Mohamad Saad, Daniel Schaefer, Ashly Jordan, **Daniel Smith**, Alan Neaigus, Don Des Jarlais, Holly Hagan, and Kirk Dombrowski. 2018. "Combination interventions for Hepatitis C and Cirrhosis reduction among people who inject drugs: An agent-based, networked population simulation experiment." *PLOS ONE*, 13(11): e0206356. [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206356 "Link to publication")
+13\. Bilal Khan, Ian Duncan, Mohamad Saad, Daniel Schaefer, Ashly Jordan, **Daniel Smith**, Alan Neaigus, Don Des Jarlais, Holly Hagan, and Kirk Dombrowski. 2018. "Combination interventions for Hepatitis C and Cirrhosis reduction among people who inject drugs: An agent-based, networked population simulation experiment." *PLOS ONE*, 13(11): e0206356.  
+  [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206356 "Link to publication")
 
 
 12\. Ashly E. Jordan, David C. Perlman, **Daniel J. Smith**, and Holly Hagan. 2018. “Application of an adapted PRECIS-II instrument to assess efficacy and effectiveness study designs in a systematic review of intervention studies of the HCV care continuum among people who use drugs.” *Comparative Effectiveness Research*, 8: 3-17. [Full text](https://www.dovepress.com/application-of-an-adapted-precis-2-instrument-to-assess-efficacy--and--peer-reviewed-fulltext-article-CER "Link to publication")
