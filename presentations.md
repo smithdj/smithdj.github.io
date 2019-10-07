@@ -13,6 +13,7 @@
 
 1\. **Daniel J. Smith**. 2012. “Public diplomacy and the ‘self’ in regional organization: Network models of identity formation, image formation, and ASEAN community building.” Presented at The Whitehead Colloquium, Seton Hall University, April 12.
 
+<br />
 
 ### *Conference Poster Presentations*
 
