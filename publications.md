@@ -81,7 +81,7 @@
 
 <br />
 
-1\. **Daniel J. Smith** and Patrick James. 2010. “Forecasting California-Canada relations.” With Patrick James. *FOCALPoint*, 9(9): 5-6.
+1\. **Daniel J. Smith** and Patrick James. 2010. “Forecasting California-Canada relations.” *FOCALPoint*, 9(9): 5-6.
   * [Full text](https://www.researchgate.net/publication/282354143_Forecasting_California-Canada_Relations)
 
 <br />  
