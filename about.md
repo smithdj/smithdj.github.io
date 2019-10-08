@@ -10,4 +10,4 @@ You'll find a list of my [publications](https://smithdj.github.io/publications),
 
 ### Contact
 
-Email: smithdanieljo@gmail.com
+Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
