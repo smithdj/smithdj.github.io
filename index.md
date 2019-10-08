@@ -20,5 +20,5 @@ Research links:
 
 ---
 
-### [Ongoing Research](ongoing "Link to ongoing research")
+### [Ongoing Research](/ongoing "Link to ongoing research")
 ---
