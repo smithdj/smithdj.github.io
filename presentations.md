@@ -18,7 +18,7 @@
 ### *Conference Poster Presentations*
 
 
-8\. Kathleen Mcbride, David Evans, Dina Rosenberg, Norman Jabaut, Carmen Misenas Rivera, **Daniel J. Smith**, Peri Rosenfeld, and Silas Smith. 2019. "The culture of urine: Evaluation of current practice for collecting and ordering urine cultures in the emergency department of NYU Medical Center." Presented at the 23rd Annual Nursing Research Conference, New York, NY, June 19.
+8\. Kathleen McBride, David Evans, Dina Rosenberg, Norman Jabaut, Carmen Misenas Rivera, **Daniel J. Smith**, Peri Rosenfeld, and Silas Smith. 2019. "The culture of urine: Evaluation of current practice for collecting and ordering urine cultures in the emergency department of NYU Medical Center." Presented at the 23rd Annual Nursing Research Conference, New York, NY, June 19.
 
 
 7\. Dora Castillo, **Daniel J. Smith**, and Peri Rosenfeld. 2019. "Evaluating the impact of an oral care initiative in an academic medical center." Presented at the 23rd Annual Nursing Research Conference, New York, NY, June 19.
