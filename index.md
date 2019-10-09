@@ -20,7 +20,7 @@ Research links:
 
 ---
 
-### [Ongoing Research](./ongoing "Link to ongoing research")
+### [Ongoing Projects](./ongoing "Link to ongoing projects")
 ---
 
 <br />  
