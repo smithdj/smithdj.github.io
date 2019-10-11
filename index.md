@@ -25,8 +25,7 @@ Research links:
 
 <br />
 
-#####View by research area:#####  
-
+#####View by research area:  
 **[Political Science](./research-area/poli-sci)  |  [Public Health and Medicine](./research-area/pub-health-med)  |  [Sports](./research-area/sports)**
     
 <br />  
