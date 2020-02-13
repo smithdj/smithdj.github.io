@@ -48,7 +48,7 @@
   [Full text](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-016-0293-6 "Link to publication")
 
 
-5\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” *International Journal of Drug Policy*, 26: 911-21.  
+5\.	**Daniel J. Smith**, Joan Combellick, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” *International Journal of Drug Policy*, 26: 911-21.  
   [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26298331 "Link to publication")
 
 
