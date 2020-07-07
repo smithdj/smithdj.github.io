@@ -2,7 +2,7 @@
 
 ### *Articles*
 
-17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. Forthcoming. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, 33(5):252-9.  
+17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. 2020. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, 33(5):252-9.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2020/05000/Evaluating_the_Impact_of_an_Innovative_Educational.7.aspx "Link to publication")
 
 
@@ -14,7 +14,7 @@
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2020/04000/Acute_Skin_Failure_in_the_Critical_Care_Patient.5.aspx "Link to publication")
 
 
-14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*, 33(4):192-201.  
+14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. 2019. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*, 33(4):192-201.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2019/11000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.7.aspx "Link to publication")
 
 
