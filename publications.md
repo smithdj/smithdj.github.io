@@ -14,7 +14,7 @@
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2020/04000/Acute_Skin_Failure_in_the_Critical_Care_Patient.5.aspx "Link to publication")
 
 
-14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*.  
+14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. Forthcoming. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*, 33(4):192-201.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2019/11000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.7.aspx "Link to publication")
 
 
