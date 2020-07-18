@@ -1,4 +1,4 @@
-### Quantitative Researcher
+### Empirical Researcher
 
 #### [About](./about)
 
