@@ -1,6 +1,6 @@
 ### About
 
-I'm a quantitative researcher interested in the application of empirical methods, formal models, and political economy to puzzles in international politics, sports, public health, and medicine.
+I'm an empirical researcher interested in the application of quantitative methods, formal models, and political economy to puzzles in international politics, sports, public health, and medicine.
 
 A repository of my work can be found [here](./#publications). 
 
