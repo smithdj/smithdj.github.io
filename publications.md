@@ -26,7 +26,7 @@
 [Full text](https://www.dovepress.com/application-of-an-adapted-precis-2-instrument-to-assess-efficacy--and--peer-reviewed-fulltext-article-CER "Link to publication")
    
 
-11\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2018. “Use of the PRECIS-II instrument to categorize reports along the efficacy-effectiveness spectrum in an hepatitis C virus care continuum systematic review and meta-analysis.” *Journal of Clinical Epidemiology* 93: 66-75.  
+11\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2018. “Use of the PRECIS-II instrument to categorize reports along the efficacy-effectiveness spectrum in an hepatitis C virus care continuum systematic review and meta-analysis.” *Journal of Clinical Epidemiology*, 93: 66-75.  
 [Full text](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")
   
 
@@ -34,7 +34,7 @@
   [Full text](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
 
 
-9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10):e201.  
+9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols*, 6(10):e201.  
   [Full text](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
 
 
