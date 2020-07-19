@@ -54,7 +54,7 @@
   [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26298331 "Link to publication")
 
 
-4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015.“Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2): e68.  
+4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2): e68.  
   [Full text](https://www.researchprotocols.org/2015/2/e68/ "Link to publication")
 
 
@@ -62,7 +62,7 @@
   [Full-text](https://surface.syr.edu/exchange/vol5/iss1/8/ "Link to publication")
 
 
-2\. **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” 2014. *Journal of Political Inquiry*, (Spring): 121-45.  
+2\. **Daniel J. Smith**. 2014. “Apportionment and sequential allocation: Toward a fair division method for the Spratly Islands dispute.” *Journal of Political Inquiry*, (Spring): 121-45.  
   [Full text](http://www.jpinyu.com/wp-content/uploads/2015/01/9._daniel_final.pdf "Link to publication")          
 
 
