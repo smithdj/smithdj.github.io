@@ -2,7 +2,7 @@
 
 ### *Articles*
 
-17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. 2020. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, 33(5):252-9.  
+17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. 2020. “Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT).” *Advances in Skin and Wound Care*, 33(5): 252-9.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2020/05000/Evaluating_the_Impact_of_an_Innovative_Educational.7.aspx "Link to publication")
 
 
@@ -10,11 +10,11 @@
 [Full text](https://journals.lww.com/jncqjournal/Abstract/2020/04000/Implementing_and_Evaluating_the_Impact_of_a.5.aspx "Link to publication")
 
 
-15\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. 2020. “Acute skin failure in the critical care patient.” *Advances in Skin and Wound Care*, 32(11):512-9.  
+15\. Barbara Delmore, Jill Cox, **Daniel J. Smith**, Andy Chu, and Linda Rolnitzky. 2020. “Acute skin failure in the critical care patient.” *Advances in Skin and Wound Care*, 32(11): 512-9.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2020/04000/Acute_Skin_Failure_in_the_Critical_Care_Patient.5.aspx "Link to publication")
 
 
-14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. 2019. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*, 33(4):192-201.  
+14\. Barbara Delmore, Elizabeth A. Ayello, **Daniel J. Smith**, Linda Rolnitzky, and Andy Chu. 2019. “Refining heel pressure injury risk factors in the hospitalized patient." *Advances in Skin and Wound Care*, 33(4): 192-201.  
 [Full text](https://journals.lww.com/aswcjournal/Abstract/2019/11000/Refining_Heel_Pressure_Injury_Risk_Factors_in_the.7.aspx "Link to publication")
 
 
@@ -30,11 +30,11 @@
 [Full text](https://www.ncbi.nlm.nih.gov/pubmed/29102682 "Link to publication")
   
 
-10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5: 348.  
+10\. Ashly E. Jordan, David C. Perlman, Jennifer R. Reed, **Daniel J. Smith**, and Holly Hagan. 2017. “Patterns and gaps identified in a systematic review of the hepatitis C virus care continuum in studies among people who use drugs.” *Frontiers in Public Health*, 5:348.  
   [Full text](https://www.frontiersin.org/articles/10.3389/fpubh.2017.00348/full "Link to publication")
 
 
-9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10): e201.  
+9\. **Daniel J. Smith**, Josh Neurer, Ashly E. Jordan, and Holly Hagan. “Epidemiology of hepatitis C virus (HCV) among people who inject drugs (PWID): Protocol for a systematic review and meta-analysis.” 2017. *JMIR Research Protocols* 6(10):e201.  
   [Full text](https://www.researchprotocols.org/2017/10/e201/ "Link to publication")
 
 
@@ -54,7 +54,7 @@
   [Full text](https://www.ncbi.nlm.nih.gov/pubmed/26298331 "Link to publication")
 
 
-4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2): e68.  
+4\.	Joan Combellick, **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. 2015. “Hepatitis C virus disease progression in people who inject drugs: Protocol for a systematic review and meta-analysis.” *JMIR Research Protocols*, 4(2):e68.  
   [Full text](https://www.researchprotocols.org/2015/2/e68/ "Link to publication")
 
 
