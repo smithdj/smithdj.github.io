@@ -1,9 +1,6 @@
 ## Ongoing and Unpublished Research
 
 
-4\. **Daniel J. Smith**, Ashly E. Jordan, and Holly Hagan. “Correcting the count: A potential bias in estimating hepatitis C virus infection using data on people who inject drugs.”
-
-
 3\. **Daniel J. Smith**. October 2015. “The myth of home-field advantage in the NFL: An analysis of structural determinants of game outcomes.”
 
 
