@@ -27,7 +27,6 @@ Research links:
 
 Other scholarly activity:
 * [Peer Reviewer Experience](./peer_reviewer "Link to peer reviewer experience")
----
 
 <br />  
   
