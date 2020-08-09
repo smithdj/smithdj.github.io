@@ -23,7 +23,10 @@ Research links:
 ### [Ongoing Projects](./ongoing "Link to ongoing projects")
 ---
 
-### [Peer Reviewer Experience](./peer_reviewer "Link to peer reviewer experience")
+<br>
+
+Other scholarly activity:
+* [Peer Reviewer Experience](./peer_reviewer "Link to peer reviewer experience")
 ---
 
 <br />  
