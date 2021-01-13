@@ -1,4 +1,4 @@
-## Ongoing and Unpublished Research
+## Current and Unpublished Research
 
 6\. **Daniel J. Smith**. In preparation. "A domestic explanation of economic cooperation."
 
