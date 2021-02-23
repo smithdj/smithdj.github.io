@@ -11,6 +11,7 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 <details>
   <summary>Note</summary>  
   <br/>
+  
   This writing sample includes excerpts from the methods, results, and discussion sections that I wrote for an article that was published in 2016.
   
 </details>
@@ -18,6 +19,7 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 <details>
  <summary>Citation</summary>
  <br/>
+  
  Smith DJ, Jordan AE, Frank MO, and Hagan H. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” 2016. *BMC Infectious Diseases* 16: 471-83. <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-016-1807-5">Link to article.</a>
 
 </details>
@@ -84,16 +86,18 @@ Evaluation of the report-level spontaneous viral clearance data for each of the 
 <details>
  <summary>TABLES & FIGURES</summary>
  <br/>
+  
 </details>
 
 <details>
- <summary>REFERENCESS</summary>
+ <summary>REFERENCESS=</summary>
  <br/>
-14. CITE
-27. CITE
-28. CITE
-29. CITE
-30. CITE
-31. CITE
-32. CITE
+  
+14. CITE  
+27. CITE  
+28. CITE  
+29. CITE  
+30. CITE  
+31. CITE  
+32. CITE  
 </details>
