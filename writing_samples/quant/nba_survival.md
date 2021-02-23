@@ -84,7 +84,7 @@ The findings suggest that NBA careers are not longer for players who remain in c
 </details>
 
 <details>
- <summary>TABLES & FIGURES</summary>
+ <summary>REFERENCES</summary>
  <br/>
   
 Fynn, Kwame and Morgan Sonnenchein. 2011. An analysis of the career length of professional basketball players. Macaleter Review 2(2): 1-11.
