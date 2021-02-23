@@ -2,7 +2,7 @@
 
 <br/>
 
-### Implementing and evaluating the impact of a nurse-led oral care initiative<sup>*</sup> 
+### Implementing and evaluating the impact of a nurse-led oral care initiative 
 
 Daniel J. Smith with Dora Castillo and Peri Rosenfeld  
 
