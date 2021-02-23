@@ -7,13 +7,15 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 ***  
 
 <details>
-  <summary>Note</summary>
+  <summary>Note</summary>  
+  <br/>
   This writing sample includes excerpts from the methods, results, and discussion sections that I wrote for an article that was published in 2015.
   
 </details>
 
 <details>
  <summary>Citation</summary>
+ <br/>
  Combellick J, **Smith DJ**, Jordan AE, and Hagan H. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” 2015. International Journal of Drug Policy 26: 911-21.
 
 </details>
@@ -32,7 +34,7 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 
 ***
 
-### METHODS
+### METHODS  
 
 **Data Analysis**  
 
@@ -54,6 +56,8 @@ _**Nonlinear estimation:**_ We also estimated annual stage-specific FPRs, which 
 
 **Meta-analysis**
 Pooled estimates were generated from both fixed-effect and random-effects metaanalysis models. Heterogeneity was assessed using both Cochran’s Q and I 2 (Higgins, Thompson, Deeks, & Altman, 2003) measures. Random-effects meta-regression of fibrosis progression and incidence of CC were performed. Statistical analysis was conducted using Stata 13.1 (StataCorp, 2013) and SAS 9.3 (SAS Institute Inc., 2012). . . .
+
+<br/>
 
 ### RESULTS
 
@@ -78,6 +82,8 @@ Tests for heterogeneity, detailed in tables 1–3, revealed significant variabil
 **Meta-regression**
 We performed a random-effects meta-regression to examine the influence of report and participant characteristics on fibrosis progression and incidence of CC. Both stage-constant and stage-specific rates were used as dependent variables. In a univariate regression, quality rating (coeff. −0.029; 95% CI −0.055, −0.004; p = 0.026) was associated with a slower stage-constant FPR. However, there was no evidence of an effect of quality rating on stage-specific fibrosis progression or incidence of CC. (Results are not shown.) The results of a multivariate analysis are presented in table 5. Across all three outcome variables, there was no evidence to suggest the influence of age at infection, duration of infection, male sex, or recruitment from clinical settings.
 
+<br/>
+
 ### DISCUSSION
 This systematic review synthesized the available data on the progression of fibrosis and the incidence of severe hepatic sequelae in PWID with chronic HCV infection. Random-effects estimation generated a stage-constant FPR of 0.117 and stage-specific FPRs of 0.128 (F0→F1), 0.059 (F1→F2), 0.078 (F2→F3), and 0.116 (F3→F4). The stage-constant rate (0.117) is within the range (and near the midpoint) of other stage-constant estimates from samples of HIV-negative patients with HCV infection due to other exposures (range 0.07, 0.151). . . .
 
@@ -89,11 +95,11 @@ Similarly, the stage-specific rates we derived-0.128 (F0→F1), 0.059 (F1→F2),
 
 <details>
  <summary>TABLES & FIGURES</summary>
- 
+ <br/>
 </details>
 
 <details>
  <summary>CITATIONS</summary>
- 
+ <br/>
 </details>
 
