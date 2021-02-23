@@ -1,5 +1,7 @@
 ## Writing Sample
 
+<br/>
+
 ### Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis
 
 Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
