@@ -11,6 +11,7 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 <details>
   <summary>Note</summary>  
   <br/>
+  
   This writing sample includes excerpts from the methods, results, and discussion sections I wrote for an article that was published in 2015.
   
 </details>
@@ -18,6 +19,7 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 <details>
  <summary>Citation</summary>
  <br/>
+  
   Combellick J, <b>Smith DJ</b>, Jordan AE, and Hagan H. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” 2015. <i>International Journal of Drug Policy</i> 26: 911-21. <a href="https://www.ncbi.nlm.nih.gov/pubmed/26298331">Link to article.</a>
 
 </details>
@@ -98,10 +100,12 @@ Similarly, the stage-specific rates we derived--0.128 (F0→F1), 0.059 (F1→F2)
 <details>
  <summary>TABLES & FIGURES</summary>
  <br/>
+  
 </details>
 
 <details>
  <summary>REFERENCES</summary>
  <br/>
+  
 </details>
 
