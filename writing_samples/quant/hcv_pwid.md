@@ -1,5 +1,7 @@
 ## Writing Sample
 
+<br/>
+
 ### Hepatitis C virus (HCV) disease progression in people who inject drugs (PWID): A systematic review and meta-analysis
 
 Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan  
