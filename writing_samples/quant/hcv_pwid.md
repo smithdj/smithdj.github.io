@@ -63,7 +63,7 @@ Pooled estimates were generated from both fixed-effect and random-effects metaan
 
 ### RESULTS
 
-**Pooled estimates** 
+**Pooled estimates**   
 In the supporting tables (1–5), both fixed-effect and random-effects meta-analysis results are presented. We discuss below only the random-effects estimates. 
 
 **Fibrosis progression rate.** A total of 2,607 participants representing 41,119 PYs and 3,775 cumulative METAVIR units contributed to the study of FPR in 10 reports. Among 2,361 PWID in 9 of the remaining 10 reports, the estimated mean duration of infection was 15.2 years (median 14.6; range 5.6, 26.0) and the estimated mean age of infection was 20.7 years (median 21.0; range 15.8, 23.0).
@@ -78,15 +78,15 @@ _**Nonlinear estimation:**_ MML estimation was performed for 6 of the 10 reports
 
 **Hepatocellular carcinoma.** HCC was examined in five reports representing 80,096 PYs and 4,506 participants. In these reports, the estimated mean disease duration was 16.9 years (median 18.0; range 12.0, 19.0); from the four reports that assessed 4,432 PWID, the estimated mean age of infection was 20.4 years (median 20.3; range 19.0, 22.0). Most of these reports presented data from cohorts prior to 2001. The pooled incidence rate was 0.3 events per 1,000 PYs (range −0.1, 0.6). . . .
 
-**Heterogeneity**
+**Heterogeneity**  
 Tests for heterogeneity, detailed in tables 1–3, revealed significant variability across the reports contributing to each outcome. Among the meta-analysis estimates affected by heterogeneity, the Q-statistic was associated with a p-value less than 0.05, and the I2 values suggested moderate to high inconsistency. However, there was no evidence to suggest the influence of heterogeneity in the estimation of three outcomes: the stage-specific progression from F2→F3 and F3→F4, and the incidence of HCC. The p-values for all Q-statistics were greater than 0.10, and I2 values were below 23%.
 
-**Meta-regression**
+**Meta-regression**  
 We performed a random-effects meta-regression to examine the influence of report and participant characteristics on fibrosis progression and incidence of CC. Both stage-constant and stage-specific rates were used as dependent variables. In a univariate regression, quality rating (coeff. −0.029; 95% CI −0.055, −0.004; p = 0.026) was associated with a slower stage-constant FPR. However, there was no evidence of an effect of quality rating on stage-specific fibrosis progression or incidence of CC. (Results are not shown.) The results of a multivariate analysis are presented in table 5. Across all three outcome variables, there was no evidence to suggest the influence of age at infection, duration of infection, male sex, or recruitment from clinical settings.
 
 <br/>
 
-### DISCUSSION
+### DISCUSSION  
 This systematic review synthesized the available data on the progression of fibrosis and the incidence of severe hepatic sequelae in PWID with chronic HCV infection. Random-effects estimation generated a stage-constant FPR of 0.117 and stage-specific FPRs of 0.128 (F0→F1), 0.059 (F1→F2), 0.078 (F2→F3), and 0.116 (F3→F4). The stage-constant rate (0.117) is within the range (and near the midpoint) of other stage-constant estimates from samples of HIV-negative patients with HCV infection due to other exposures (range 0.07, 0.151). . . .
 
 Likewise, based on a progression rate of 0.117, the estimated time to cirrhosis of 34 years is near the midpoint of the time-to-event range (22, 57) in the other patient groups. Although there is wide variance in the estimates of fibrosis progression and the associated times to event, the stage-constant rate of the present meta-analysis lies near the centers of the distributions. 
