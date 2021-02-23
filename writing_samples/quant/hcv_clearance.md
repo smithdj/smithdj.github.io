@@ -11,14 +11,14 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 <details>
   <summary>Note</summary>  
   <br/>
-  This writing sample includes excerpts from the methods, results, and discussion sections that I wrote for an article that was published in 2015.
+  This writing sample includes excerpts from the methods, results, and discussion sections that I wrote for an article that was published in 2016.
   
 </details>
 
 <details>
  <summary>Citation</summary>
  <br/>
- Combellick J, **Smith DJ**, Jordan AE, and Hagan H. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” 2015. International Journal of Drug Policy 26: 911-21.
+ Smith DJ, Jordan AE, Frank MO, and Hagan H. “Spontaneous viral clearance of hepatitis C virus (HCV) infection among people who inject drugs (PWID) and HIV-positive men who have sex with men (HIV+ MSM): A systematic review and meta-analysis.” 2016. *BMC Infectious Diseases* 16: 471-83. <a href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-016-1807-5">Link to article.</a>
 
 </details>
 
@@ -26,13 +26,13 @@ Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 
 ### ABSTRACT
 
-**Background:** Understanding HCV disease progression rates among people who inject drugs (PWID) is important to setting policy to expand access to detection, diagnosis and treatment, and in forecasting the burden of disease. In this paper we synthesize existing data on the natural history of HCV among PWID, including fibrosis progression rates (FPR) and the incidence of compensated cirrhosis (CC), decompensated cirrhosis (DC), and hepatocellular carcinoma (HCC).
+**Background:** Hepatitis C virus (HCV) infection causes significant morbidity and mortality among people who inject drugs (PWID) and HIV+ men who have sex with men (MSM). Characterizing spontaneous viral clearance of HCV infection among PWID and HIV+ MSM is important for assessing the burden of disease and treatment strategies in these populations.
 
-**Methods:** We conducted electronic and manual searches for published and unpublished literature. Reports were eligible if they (i) included participants who were chronically infected with HCV and reported current or previous injection drug use; (ii) presented original data on disease progression in a study sample comprised of at least 90% PWID; (iii) published between January 1, 1990, and December 31, 2013; and (iv) included data from upper-middle- or high-income countries. Quality ratings were assigned using an adaptation of the Quality In Prognosis Studies (QUIPS) tool. We estimated pooled FPRs using the stage-constant and stage-specific methods, and pooled incidence rates of CC, DC, and HCC.
+**Methods:** Electronic and other searches of medical literature were conducted. Reports were eligible if they presented original data from upper-middle- and high-income countries on laboratory-confirmed HCV infection and spontaneous viral clearance among PWID or HIV+ MSM. Pooled estimates of spontaneous viral clearance were generated using fixed-effect and random-effects models. Meta-regression examined potential predictors related to individual characteristics and research methodology.
 
-**Results:** Twenty-one reports met the study inclusion criteria. Based on random-effect models, the pooled stage-constant FPR was 0.117 METAVIR units per year (95% CI, 0.099-0.135), and the stage-specific FPRs were F0→F1, 0.128 (95% CI 0.080, 0.176); F1→F2, 0.059 (95% CI 0.035, 0.082); F2→F3, 0.078 (95% CI 0.056, 0.100); and F3→F4, 0.116 (95% CI 0.070, 0.161). The pooled incidence rates of CC, DC, and HCC were 6.6 (95% CI 4.8, 8.4), 1.1 (95% CI 0.8, 1.4), and 0.3 (95% CI -0.1, 0.6) events per 1000 person-years, respectively. Following the stage-constant estimate, average time to cirrhosis is 34 years post-infection, and time to METAVIR stage F3 is 26 years; using the stage-specific estimates, time to cirrhosis is 46 years and time to F3 is 38 years.
+**Results:** The meta-analysis estimated that spontaneous viral clearance occurs in 24.4 % of PWID and 15.4 % of HIV+ MSM. In univariate meta-regression among PWID, male sex and age were significantly associated with spontaneous viral clearance, and in multivariate analysis, male sex and HIV positivity were predictors of spontaneous viral clearance; among HIV+ MSM no variables were found to affect spontaneous viral clearance.
 
-**Conclusion:** Left untreated, PWID with chronic HCV infection will develop liver sequelae (including HCC) in mid- to late-adulthood. Delaying treatment with the new drug regimens until advanced fibrosis develops prolongs the period of infectiousness to perhaps thirty years. Scaling up of effective HCV prevention and early engagement in care and treatment will facilitate the elimination HCV as a source of serious disease in PWID.
+**Conclusion:** The variability in estimates of spontaneous viral clearance between HIV+ MSM and PWID suggests the impact of HIV co-infection and HCV re-infection. Due to limited data on additional factors that may affect the natural history of HCV, more research is needed to further understand spontaneous viral clearance in these risk groups.
 
 ***
 
