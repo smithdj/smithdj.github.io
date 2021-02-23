@@ -101,7 +101,7 @@ Similarly, the stage-specific rates we derived--0.128 (F0→F1), 0.059 (F1→F2)
 </details>
 
 <details>
- <summary>CITATIONS</summary>
+ <summary>REFERENCES</summary>
  <br/>
 </details>
 
