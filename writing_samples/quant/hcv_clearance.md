@@ -6,7 +6,7 @@
 
 Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan
 
-***  
+<br/> 
 
 <details>
   <summary>Note</summary>  
@@ -73,7 +73,7 @@ _**HIV+ MSM.**_ Neither univariate nor multivariate analysis provided any eviden
 ### DISCUSSION
 In this systematic review and meta-analysis, we estimated that the prevalence of spontaneous viral clearance is 24.4 % in PWID and 15.4 % in HIV+ MSM. Although the estimates for PWID and HIV+ MSM were not directly compared here, the difference may be related to the impact of HIV co-infection on the natural history of HCV. The rates of spontaneous viral clearance were similar in HIV+ MSM (15.4 %) and PWID with HIV infection at the time that HCV clearance was evaluated (16.1 %). Our estimate of 24.4 % among PWID was very closely similar to the estimate from a pooled analysis of clearance among 632 participants in multiple studies (25 %) who were observed following acute infection [29]. 
 
-Among HIV-positive PWID, lower clearance cannot reliably be attributed to the effect of HIV infection on viral kinetics because the temporal relation between HIV and HCV infections in these individuals is unclear. Moreover, estimates of spontaneous viral clearance from most studies do not necessarily represent true rates but rather the prevalence of cleared infection. Evidence of clearance at any given time in an individual is the cumulative result of behaviors that led to infection events, including multiple re-infections, and the host and viral characteristics that govern response to acute HCV infection. Although re-infection post-SVR is higher among HIV + MSM than among PWID, it cannot be concluded that the rates of HCV re-infection in treated and untreated HIV + MSM are higher than among treated and untreated PWID because studies of re-infection in treated PWID have in many cases excluded active injectors [14, 30]. There is no research comparing the frequency of HCV transmission behavior between these groups, and thus, there is insufficient evidence to attribute differences in clearance to differences in behavioral risk.
+Among HIV-positive PWID, lower clearance cannot reliably be attributed to the effect of HIV infection on viral kinetics because the temporal relation between HIV and HCV infections in these individuals is unclear. Moreover, estimates of spontaneous viral clearance from most studies do not necessarily represent true rates but rather the prevalence of cleared infection. Evidence of clearance at any given time in an individual is the cumulative result of behaviors that led to infection events, including multiple re-infections, and the host and viral characteristics that govern response to acute HCV infection. Although re-infection post-SVR is higher among HIV+ MSM than among PWID, it cannot be concluded that the rates of HCV re-infection in treated and untreated HIV+ MSM are higher than among treated and untreated PWID because studies of re-infection in treated PWID have in many cases excluded active injectors [14, 30]. There is no research comparing the frequency of HCV transmission behavior between these groups, and thus, there is insufficient evidence to attribute differences in clearance to differences in behavioral risk.
 
 Our finding that female gender was associated with higher proportions of spontaneous viral clearance events is consistent with published literature demonstrating that females are more likely to clear HCV than their male counterparts in a variety of settings and other patient groups [31, 32]. 
 
@@ -87,6 +87,13 @@ Evaluation of the report-level spontaneous viral clearance data for each of the 
 </details>
 
 <details>
- <summary>CITATIONS</summary>
+ <summary>REFERENCESS</summary>
  <br/>
+14. CITE
+27. CITE
+28. CITE
+29. CITE
+30. CITE
+31. CITE
+32. CITE
 </details>
