@@ -82,3 +82,17 @@ The findings suggest that NBA careers are not longer for players who remain in c
  <br/>
   
 </details>
+
+<details>
+ <summary>TABLES & FIGURES</summary>
+ <br/>
+  
+Fynn, Kwame and Morgan Sonnenchein. 2011. An analysis of the career length of professional basketball players. Macaleter Review 2(2): 1-11.
+
+Groothius, Peter and J. Richard Hill. 2004. Exit discrimination in the NBA: A duration analysis of career length. Economic Inquiry 42(2): 341-9.
+
+Rodenberg, Ryan and Jun Woo Kim. 2012. Testing the On-Court Efficacy of the NBA's Age Eligibility Rule. Journal of Quantitative Analysis in Sports:1-21.
+
+StataCorp. 2013. Stata Statistical Software: Release 13. College Station, TX: StataCorp LP.
+
+</details>
