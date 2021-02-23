@@ -1,10 +1,34 @@
-HERE
+# Writing Sample
+
+### Hepatitis C virus (HCV) disease progression in people who inject drugs (PWID): A systematic review and meta-analysis
+
+Daniel J. Smith with Joan Combellick, Ashly E. Jordan, and Holly Hagan  
+
+***  
+
+> _**Note**_  
+> This writing sample includes excerpts from the methods, results, and discussion sections that I wrote for an article that was published in 2015.
+
+> _**Citation**_    
+> Combellick J, **Smith DJ**, Jordan AE, and Hagan H. “Hepatitis C virus disease progression in people who inject drugs: A systematic review and meta-analysis.” 2015. International Journal of Drug Policy 26: 911-21.
+
+---
+
+**ABSTRACT**
+
+**Background:** Understanding HCV disease progression rates among people who inject drugs (PWID) is important to setting policy to expand access to detection, diagnosis and treatment, and in forecasting the burden of disease. In this paper we synthesize existing data on the natural history of HCV among PWID, including fibrosis progression rates (FPR) and the incidence of compensated cirrhosis (CC), decompensated cirrhosis (DC), and hepatocellular carcinoma (HCC).
+
+**Methods:** We conducted electronic and manual searches for published and unpublished literature. Reports were eligible if they (i) included participants who were chronically infected with HCV and reported current or previous injection drug use; (ii) presented original data on disease progression in a study sample comprised of at least 90% PWID; (iii) published between January 1, 1990, and December 31, 2013; and (iv) included data from upper-middle- or high-income countries. Quality ratings were assigned using an adaptation of the Quality In Prognosis Studies (QUIPS) tool. We estimated pooled FPRs using the stage-constant and stage-specific methods, and pooled incidence rates of CC, DC, and HCC.
+
+**Results:** Twenty-one reports met the study inclusion criteria. Based on random-effect models, the pooled stage-constant FPR was 0.117 METAVIR units per year (95% CI, 0.099-0.135), and the stage-specific FPRs were F0→F1, 0.128 (95% CI 0.080, 0.176); F1→F2, 0.059 (95% CI 0.035, 0.082); F2→F3, 0.078 (95% CI 0.056, 0.100); and F3→F4, 0.116 (95% CI 0.070, 0.161). The pooled incidence rates of CC, DC, and HCC were 6.6 (95% CI 4.8, 8.4), 1.1 (95% CI 0.8, 1.4), and 0.3 (95% CI -0.1, 0.6) events per 1000 person-years, respectively. Following the stage-constant estimate, average time to cirrhosis is 34 years post-infection, and time to METAVIR stage F3 is 26 years; using the stage-specific estimates, time to cirrhosis is 46 years and time to F3 is 38 years.
+
+**Conclusion:** Left untreated, PWID with chronic HCV infection will develop liver sequelae (including HCC) in mid- to late-adulthood. Delaying treatment with the new drug regimens until advanced fibrosis develops prolongs the period of infectiousness to perhaps thirty years. Scaling up of effective HCV prevention and early engagement in care and treatment will facilitate the elimination HCV as a source of serious disease in PWID.
 
 ***
 
-METHODS
-Data Analysis
-Time to event. For every report, time to event was recorded in person-years (PYs). In cases where total PYs were not provided, aggregate PYs were approximated by cumulative disease duration or time between biopsies, which were estimated by the product of the sample size and the sample mean of the duration of infection or interval separating paired biopsies. 
+#### METHODS
+##### Data Analysis
+##### Time to event. For every report, time to event was recorded in person-years (PYs). In cases where total PYs were not provided, aggregate PYs were approximated by cumulative disease duration or time between biopsies, which were estimated by the product of the sample size and the sample mean of the duration of infection or interval separating paired biopsies. 
 
 Fibrosis progression. We estimated the progression of fibrosis using two methods: i) the stage-constant method, wherein the rate of progression is assumed to be linear, and therefore constant, across person-time, and ii) the stage-specific method, in which fibrosis progression is presumed to be nonlinear and thus advances unevenly over person-time. All fibrosis staging data were standardized by converting the original fibrosis scores graded by the Ishak, Knodell, or Scheuer system to METAVIR units (F0-F4) (Thein, Yi, Dore, & Krahn, 2008). 
 
@@ -49,3 +73,9 @@ DISCUSSION
 This systematic review synthesized the available data on the progression of fibrosis and the incidence of severe hepatic sequelae in PWID with chronic HCV infection. Random-effects estimation generated a stage-constant FPR of 0.117 and stage-specific FPRs of 0.128 (F0→F1), 0.059 (F1→F2), 0.078 (F2→F3), and 0.116 (F3→F4). The stage-constant rate (0.117) is within the range (and near the midpoint) of other stage-constant estimates from samples of HIV-negative patients with HCV infection due to other exposures (range 0.07, 0.151). . . .
 Likewise, based on a progression rate of 0.117, the estimated time to cirrhosis of 34 years is near the midpoint of the time-to-event range (22, 57) in the other patient groups. Although there is wide variance in the estimates of fibrosis progression and the associated times to event, the stage-constant rate of the present meta-analysis lies near the centers of the distributions. 
 Similarly, the stage-specific rates we derived-0.128 (F0→F1), 0.059 (F1→F2), 0.078 (F2→F3), and 0.116 (F3→F4)-are consistent with the rates of Thein et al. (2008), who also examined fibrosis progression among PWID: 0.116 (F0→F1), 0.085 (F1→F2), 0.085 (F2→F3), and 0.130 (F3→F4). With the exception of the transition from F1→F2, our estimates deviate slightly from Thein et al.; this is demonstrated in the comparison of between-stage duration and overall time to CC. We estimate the occurrence of compensated cirrhosis at 46 years post-infection, and Thein et al. provide an estimate of 40 years. One explanation for the difference in rates is the moderation effect of HIV co-infection, which was prevalent in higher proportions in the PWID samples of Thein et al. . . .
+
+---
+
+[CITATIONS]
+
+[GRAPHICS]
