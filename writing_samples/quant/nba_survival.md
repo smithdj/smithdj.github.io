@@ -81,6 +81,8 @@ The findings suggest that NBA careers are not longer for players who remain in c
  <summary>TABLES & FIGURES</summary>
  <br/>
   
+ [PDF version](nba_survival-tables_and_figures.pdf)
+ *For optimal viewing, open the link in a new tab and download the PDF file.
 </details>
 
 <details>
