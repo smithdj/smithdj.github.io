@@ -10,6 +10,6 @@
 
 3\. **Daniel J. Smith**. 2015. "Survival in the NBA: An analysis of collegiate experience and career duration using single-event modeling." Research presented at the Carolina Sports Analytics Meeting (2015; Greenville, SC) and the New England Symposium on Statistics in Sports (2015; Cambridge, MA). Unpublished.
 
-2\. **Daniel J. Smith**. 2012. "Reaching an Equilibrium in ASEAN-Myanmar Relations: A Game-theoretic Analysis." Unpublished.
+2\. **Daniel J. Smith**. 2012. "Reaching an equilibrium in ASEAN-Myanmar relations: A game-theoretic analysis." Unpublished.
 
 1\. **Daniel J Smith**. 2011. "Modeling the systemism of economic diplomacy: A replicable approach to Islamic fundamentalism for the Philippines." Thesis for M.A. in Public Diplomacy. Unpublished.
