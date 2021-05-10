@@ -2,7 +2,8 @@
 
 ### *Articles*
 
-18\. Diane Maydick-Youngberg, Laura Gabbe, Grace Simmons, **Daniel J. Smith**, Epifania Quimson, Elaine Meyerson, Catherine Manley-Cullen, and Peri Rosenfeld. Forthcoming. "Assessing evidence-based practice knowledge: An innovative approach by a nursing research council." *Journal of Nursing Administration*.
+18\. Diane Maydick-Youngberg, Laura Gabbe, Grace Simmons, **Daniel J. Smith**, Epifania Quimson, Elaine Meyerson, Catherine Manley-Cullen, and Peri Rosenfeld. 2021. "Assessing evidence-based practice knowledge: An innovative approach by a nursing research council." *Journal of Nursing Administration*, 51(5): 279-86.
+[Full text](https://journals.lww.com/jonajournal/Abstract/2021/05000/Assessing_Evidence_Based_Practice_Knowledge__An.10.aspx "Link to publication")
 
 
 17\. Barbara Delmore, **Daniel J. Smith**, Elizabeth A. Ayello, and Elizabeth Savage. 2020. "Evaluating the impact of an innovative educational program for skin care champions using the Pieper-Zulkowski Pressure Ulcer Knowledge Test (PZ-PUKT)." *Advances in Skin and Wound Care*, 33(5): 252-9.  
