@@ -20,9 +20,6 @@ Research links:
 
 ---
 
-### [Current Projects](./current "Link to ongoing projects")
----
-
 <br>
 
 Other scholarly activity:
